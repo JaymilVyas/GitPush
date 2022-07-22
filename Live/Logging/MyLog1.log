@@ -1,0 +1,50 @@
+INFO:root:This is my very first code for logging
+INFO:root:This is my very first code for logging
+INFO:root:This is my very first code for logging
+INFO:root:2
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+INFO:root:2
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+ERROR:root:After shutdown message
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+ERROR:root:Shutdown message
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+ERROR:root:Shutdown message
+INFO:root:This is my very first code for logging
+WARNING:root:This is a warning. It is severe information for the user
+ERROR:root:This is an error message from the system.
+INFO:root:2
+WARNING:root:This is a warning message for the list function. You have ran this code multiple times.
+ERROR:root:Shutdown message??

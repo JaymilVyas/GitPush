@@ -1,0 +1,11 @@
+INFO 2022-07-15 12:33:19,982 root I am trying to read the file with the name 'Jimmmy'
+CRITICAL 2022-07-15 12:33:19,982 root this is a situation for us 
+ERROR 2022-07-15 12:33:19,982 root [Errno 2] No such file or directory: 'Jimmy.txt'
+INFO 2022-07-15 12:35:45,775 root I am trying to read the file with the name 'Jimmmy'
+CRITICAL 2022-07-15 12:35:45,776 root this is a situation for us 
+ERROR 2022-07-15 12:35:45,776 root [Errno 2] No such file or directory: 'Jimmy.txt'
+ERROR 2022-07-15 12:35:45,776 root [Errno 2] No such file or directory: 'Jimmy.txt'
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile3.py", line 6, in <module>
+    with open("Jimmy.txt","r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'Jimmy.txt'

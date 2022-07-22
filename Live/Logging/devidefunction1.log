@@ -1,0 +1,22 @@
+INFO 2022-07-04 14:41:01,532 root the number entered by user is 3 and 0
+INFO 2022-07-04 14:41:01,532 root We are into function
+ERROR 2022-07-04 14:41:01,532 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-04 14:44:27,796 root the number entered by user is 3 and 0
+INFO 2022-07-04 14:44:27,797 root We are into function
+ERROR 2022-07-04 14:44:27,797 root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO 2022-07-04 14:44:40,048 root the number entered by user is 3 and 1
+INFO 2022-07-04 14:44:40,048 root We are into function
+INFO 2022-07-04 14:44:40,048 root We have completed a division operations
+INFO 2022-07-04 14:44:40,048 root result of the code is 3.0 
+INFO 2022-07-05 23:44:18,430 root the number entered by user is 3 and 1
+INFO 2022-07-05 23:44:18,432 root We are into function
+INFO 2022-07-05 23:44:18,432 root We have completed a division operations
+INFO 2022-07-05 23:44:18,432 root result of the code is 3.0 

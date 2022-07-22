@@ -1,0 +1,56 @@
+2022-07-04 13:25:04,246 INFO root the number entered by user is 3 and 6
+2022-07-04 13:33:53,442 INFO root the number entered by user is 3 and 6
+2022-07-04 13:33:53,442 INFO root We are into function
+2022-07-04 13:33:53,442 INFO root We have completed a division operations
+2022-07-04 13:34:20,748 INFO root the number entered by user is 3 and 6
+2022-07-04 13:34:20,749 INFO root We are into function
+2022-07-04 13:34:20,749 INFO root We have completed a division operations
+2022-07-04 13:35:01,628 INFO root the number entered by user is 3 and 6
+2022-07-04 13:35:01,628 INFO root We are into function
+2022-07-04 13:35:01,629 INFO root We have completed a division operations
+2022-07-04 13:35:10,988 INFO root the number entered by user is 3 and 0
+2022-07-04 13:35:10,989 INFO root We are into function
+2022-07-04 13:35:10,989 ERROR root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+2022-07-04 13:36:01,446 INFO root the number entered by user is 3 and 0
+2022-07-04 13:36:01,447 INFO root We are into function
+2022-07-04 13:36:01,447 ERROR root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+2022-07-04 14:36:14,000 INFO root the number entered by user is 3 and 6
+2022-07-04 14:36:14,000 INFO root We are into function
+2022-07-04 14:36:14,000 INFO root We have completed a division operations
+2022-07-04 14:36:53,660 INFO root the number entered by user is 3 and 6
+2022-07-04 14:36:53,661 INFO root We are into function
+2022-07-04 14:36:53,661 INFO root We have completed a division operations
+2022-07-04 14:38:04,668 INFO root the number entered by user is 3 and 6
+2022-07-04 14:38:04,668 INFO root We are into function
+2022-07-04 14:38:04,668 INFO root We have completed a division operations
+2022-07-04 14:38:25,978 INFO root the number entered by user is 3 and 0
+2022-07-04 14:38:25,978 INFO root We are into function
+2022-07-04 14:38:25,978 ERROR root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+2022-07-04 14:38:50,476 INFO root the number entered by user is 3 and 0
+2022-07-04 14:38:50,476 INFO root We are into function
+2022-07-04 14:38:50,476 ERROR root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+2022-07-04 14:39:54,650 INFO root the number entered by user is 3 and 0
+2022-07-04 14:39:54,650 INFO root We are into function
+2022-07-04 14:40:04,179 INFO root the number entered by user is 3 and 0
+2022-07-04 14:40:04,179 INFO root We are into function
+2022-07-04 14:40:04,179 ERROR root division by zero
+Traceback (most recent call last):
+  File "C:\Users\Jaymil\PycharmProjects\MyWork\Live\Logging\TestFile2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero

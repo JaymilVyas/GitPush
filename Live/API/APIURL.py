@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import mysql.connector as conn
 
 app = Flask(__name__)
@@ -10,10 +10,12 @@ def test():
     mail_id = request.args.get('mail_id')
     return "this is my first function for get {} {} {}".format(get_name, mobile_number, mail_id)
 
+
+#Url: http://127.0.0.1:5003/get_data?db=tasksql &tn=mysqltable
 @app.route('/get_data')
 def get_data_from():
-    db = request.args.get('tasksql')
-    tn = request.args.get('mysqltable')
+    db = request.args.get('db')
+    tn = request.args.get('tn')
     try:
         con = conn.connect(host="localhost", user="root", password="Jimmy@123", database=db)
         cur = con.cursor(dictionary=True)
